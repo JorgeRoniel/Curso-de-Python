@@ -1,0 +1,6 @@
+Fortaleza: 130
+Rio de Janeiro: 230
+Sao Paulo: 333
+Salvador: 122
+Brasilia: 113
+Manaus: 110
